@@ -1,0 +1,14 @@
+interest /etc/lsb-release
+interest /etc/issue
+interest /etc/issue.net
+interest /usr/lib/firefox-addons/searchplugins/google.xml
+interest /usr/bin/firefox
+interest /usr/share/sounds/startup.wav
+interest /usr/share/system-config-printer
+interest /etc/xentaos/adjustments
+interest /opt/firefox/firefox
+interest /usr/lib/firefox
+interest /usr/share/mdm/defaults.conf
+interest /usr/share/applications/vino-preferences.desktop
+interest /etc/xdg/autostart/user-dirs-update-gtk.desktop
+interest /etc/xdg/autostart/vino-server.desktop

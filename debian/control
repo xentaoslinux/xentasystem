@@ -1,0 +1,21 @@
+Source: xentasystem
+Section: admin
+Priority: optional
+Maintainer: Dindin Hernawan (Xenta OS) <root@dev.xentaos.org>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.7
+Homepage: https://github.com/xentaos/xentasystem
+Vcs-Browser: https://github.com/xentaos/xentasystem.git
+
+Package: xentasystem
+Architecture: all
+Depends: python3 (>= 3.3),
+         perl,
+         apt,
+         aptitude,
+         gist,
+         zenity,
+         ${misc:Depends}
+Description: Paket Base Sistem Xenta OS berisi init sistemd.
+ Digunakan oleh desktop dan alat Xenta OS lainnya untuk dikumpul
+ informasi dan proses tugas sistem yang umum.
