@@ -34,7 +34,7 @@ case "$1" in
 
     ;;
     triggered)
-        /usr/lib/xentaos/xentasystem/mint-adjust.py
+        /usr/lib/xentaos/xentasystem/xenta-adjust.py
     ;;
     *)
         echo "postinst called with unknown argument \`$1'" >&2
