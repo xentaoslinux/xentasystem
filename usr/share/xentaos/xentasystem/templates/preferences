@@ -1,0 +1,8 @@
+Package: *
+Pin: release o=xentaos,c=upstream
+Pin-Priority: 700
+
+Package: *
+Pin: release o=Ubuntu
+Pin-Priority: 500
+

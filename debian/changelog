@@ -1,3 +1,9 @@
+xentasystem (8.3.4) arok; urgency=medium
+
+  * Memperbaharui berkas debian/*
+
+ -- Dindin Hernawan (Xenta OS) <root@dev.xentaos.org>  Sun, 12 Nov 2017 22:11:47 +0700
+
 xentasystem (8.3.3) arok; urgency=medium
 
   * Memperbaharui berkas debian/control dan debian/copyright

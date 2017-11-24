@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="com.xentaos.desktop" path="/com/xentaos/desktop/">
+    <key type="s" name="mate-window-manager">
+      <default>"marco-composite"</default>
+      <summary></summary>
+      <description></description>
+    </key>
+    <key type="s" name="xfce-window-manager">
+      <default>"xfwm4-composite"</default>
+      <summary></summary>
+      <description></description>
+    </key>
+  </schema>
+  <schema id="com.xentaos.terminal" path="/com/xentaos/terminal/">
+    <key type="b" name="show-fortunes">
+      <default>false</default>
+      <summary></summary>
+      <description></description>
+    </key>
+  </schema>
+</schemalist>
