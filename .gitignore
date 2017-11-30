@@ -1,0 +1,13 @@
+# Ignore Berkas Paket
+build-stamp
+configure-stamp
+
+# Ignore Directory Debian Paket
+debian/debhelper-build-stamp
+debian/files
+debian/*.log
+debian/*.substvars
+
+# Paket
+debian/xentasystem
+
