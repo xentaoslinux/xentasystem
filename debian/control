@@ -1,11 +1,11 @@
 Source: xentasystem
 Section: admin
 Priority: optional
-Maintainer: Dindin Hernawan (Xenta OS) <root@dev.xentaos.org>
+Maintainer: Dindin Hernawan (Xenta OS) <dindin_hernawan@yahoo.com>
 Build-Depends: debhelper (>= 9)
 Standards-Version: 3.9.7
-Homepage: https://github.com/xentaos/xentasystem
-Vcs-Browser: https://github.com/xentaos/xentasystem.git
+Homepage: https://github.com/xentaoslinux/xentasystem
+Vcs-Browser: https://github.com/xentaoslinux/xentasystem.git
 
 Package: xentasystem
 Architecture: all
