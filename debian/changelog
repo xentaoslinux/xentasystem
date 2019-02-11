@@ -1,3 +1,10 @@
+xentasystem (8.3.5) batik; urgency=medium
+
+  * Memperbaharui berkas debian/*
+  * Mengganti link lokasi repository
+
+ -- Dindin Hernawan (Xenta OS) <dindin_hernawan@yahoo.com>  Mon, 11 Feb 2019 09:21:31 +0700
+
 xentasystem (8.3.4) arok; urgency=medium
 
   * Memperbaharui berkas debian/*

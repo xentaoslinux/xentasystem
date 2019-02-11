@@ -13,7 +13,7 @@
 # along with this program.  If not, see <http://www.gnu.org/licenses/>
 
 package=xentasystem
-
+version="syslinux-themes-xentaos (8.3.5)"
 figlet $package
 echo " Set Remote... "
 git remote set-url origin git@github.com:xentaoslinux/$package.git
@@ -22,7 +22,7 @@ git pull
 echo " Git Add Local... "
 git add -A
 echo " Git Commit Local... "
-git commit -am "update"
+git commit -am "Update $version"
 echo " Git Push Local to Github... "
 git push
 echo " Berhasil... "
